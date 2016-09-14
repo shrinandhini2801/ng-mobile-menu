@@ -60,4 +60,4 @@ Use hardware accelerated CSS transitions.
 ### 0.1.1
 Remove horizontal scroll bars when menu is showing.
 ### 0.1.0
-Initial release
+Initial release -1
